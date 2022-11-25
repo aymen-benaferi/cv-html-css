@@ -1,0 +1,37 @@
+
+p {
+    color:  rgb(17, 15, 15);
+}
+h2{
+color: initial;
+}
+body {
+    background-color: rgba(228, 223, 220, 0.822);
+}
+
+body {
+    margin: auto;
+    width: 50%;
+    padding: auto;
+}
+h2 {
+    color:rgba(19, 9, 3, 0.932)
+}
+li{
+    color: rgb(0, 0, 0);
+}
+
+body
+  {
+outline: auto;
+outline-offset: 1em; 
+  }
+   h2
+   {
+    color: brown;
+   }
+   strong
+   {
+    color: red;
+   }
+   
